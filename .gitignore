@@ -1,5 +1,5 @@
-.vscode
-__pycache__
-models
-figs
-datasets/
+.vscode/
+__pycache__/
+/models/
+/figs/
+/datasets/
